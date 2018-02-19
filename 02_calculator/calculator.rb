@@ -41,3 +41,5 @@ def factorial a
 	return a
 	end
 end
+
+puts power 2, 3
